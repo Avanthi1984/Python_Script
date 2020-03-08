@@ -2,23 +2,20 @@
 
 ## Language used
 Python
+
 ## Libraries used
 tkinter,re,json,csv,datetime
 
 # Run the files
-
 Make sure Python is installed in the machine, browse to the files located in local machine.
-
 ## command line 
 python CsvtoJson.py
 
-##running the unittests 
-
+# Running the unittests 
 ## command line
 python -m unittest test_CsvtoJson.py
 
 # GUI Design:
-
 *Note: I have chosen Python as am confortable writing it. I am yet to explore Ruby and other programming laguages for frontend*
 
 I have desinged a GUI using Python's tkinter library (runs in a Single loop/thread)

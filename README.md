@@ -1,14 +1,16 @@
 # vandelay_v1_assessment
 
-Laguage used: Python
-Libraries used: tkinter,re,json,csv,datetime
+#Language used: 
+Python
+#Libraries used: 
+tkinter,re,json,csv,datetime
 
 Build and run the files:
 
 Make sure Python is installed in the machine.
 browse to the files located in local machine.
 
-command line-> python CsvtoJson.py
+command line python CsvtoJson.py
 
 running the unittests :
 

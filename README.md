@@ -1,4 +1,4 @@
-# vandelay_v1_assessment
+# Python Script to convert CSV file to JSON
 
 ## Language used
 Python
